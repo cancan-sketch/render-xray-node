@@ -1,0 +1,1 @@
+{"dependencies":{"extract-zip":"^2.0.1"},"description":"Personal xray VLESS+WS node wrapper for Render free web service. No credentials in this repo; UUID/WS path come from environment variables.","engines":{"node":">=18"},"main":"server.js","name":"render-xray-node","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
